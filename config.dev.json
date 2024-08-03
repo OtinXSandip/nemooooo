@@ -17,7 +17,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100000658715341"
+    "100000658715341",
+    "100060742373586"
   ],
   "whiteListMode": {
     "enable": false,
@@ -27,9 +28,9 @@
   "OWNER": "OtinXSandip",
   "AGE": "20",
   "GENDER": "MALE",
-  "nickNameBot": "Sandy Bot",
+  "nickNameBot": "Rosi Bot😻",
   "FACEBOOK": "",
-  "prefix": ".",
+  "prefix": "*",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
